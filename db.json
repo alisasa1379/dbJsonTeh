@@ -1,0 +1,59 @@
+{
+  "menuIcon": [
+    {
+      "id": 1,
+      "href": "#",
+      "name": null,
+      "icon": "./public/images/menu/icon.png"
+    },
+    {
+      "id": 2,
+      "href": "#",
+      "name": "menu",
+      "icon": null
+    }
+  ],
+  "rightMenu" : [
+    {
+        "id":1,
+        "name": null,
+        "href": "#",
+        "icon": "./public/images/menu/imdbPro.png"
+    },
+    {
+        "id":2,
+        "name": "Watchlist",
+        "href": "#",
+        "icon": null
+    },
+    {
+        "id":3,
+        "name": "Sign in",
+        "href": "#",
+        "icon": null
+    },
+    {
+        "id":4,
+        "name": "EN",
+        "href": "#",
+        "icon": null
+    }
+  ],
+  "slider":[
+    {
+      "id":1,
+      "src":"./public/images/slider/slide1.jpg",
+      "alt": "slide"
+    },
+    {
+      "id":2,
+      "src":"./public/images/slider/slide1.jpg",
+      "alt": "slide"
+    },
+    {
+      "id":3,
+      "src":"./public/images/slider/slide1.jpg",
+      "alt": "slide"
+    }
+  ]
+}
