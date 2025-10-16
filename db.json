@@ -42,17 +42,17 @@
   "slider":[
     {
       "id":1,
-      "src":"./public/images/slider/slide1.jpg",
+      "src":"https://s6.uupload.ir/files/slide1_5368.jpg",
       "alt": "slide"
     },
     {
       "id":2,
-      "src":"./public/images/slider/slide1.jpg",
+      "src":"https://s6.uupload.ir/files/slide1_5368.jpg",
       "alt": "slide"
     },
     {
       "id":3,
-      "src":"./public/images/slider/slide1.jpg",
+      "src":"https://s6.uupload.ir/files/slide1_5368.jpg",
       "alt": "slide"
     }
   ]
